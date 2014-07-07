@@ -1,0 +1,39 @@
+.hidden{
+     opacity:0;
+}
+.visible{
+     opacity:1;
+}
+
+@media all and (min-width: 900px){
+	.width{
+		width:60%;
+		margin: 0 auto;
+	}
+}
+
+footer{
+	margin: 1rem auto;
+}
+
+footer h1{
+	text-align: center;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 0.9rem;
+}
+
+hr {
+  height: 0;
+  -moz-box-sizing: content-box;
+       box-sizing: content-box;
+}
+
+.in{
+	width:50%;
+ border-top: 2px solid #C21429;
+ margin-top: 1rem;
+}
+
+b{
+color: #C21429;
+}
