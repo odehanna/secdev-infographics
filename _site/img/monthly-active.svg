@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 454 960 908" enable-background="new 0 454 960 908" xml:space="preserve">
+<g>
+	<g>
+		
+			<radialGradient id="SVGID_1_" cx="353.5414" cy="-4074.606" r="307.4972" gradientTransform="matrix(-1.2958 0 0 -0.1741 953.665 -178.5044)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#1F1F1F"/>
+			<stop  offset="1.044071e-02" style="stop-color:#222222"/>
+			<stop  offset="0.2194" style="stop-color:#646464"/>
+			<stop  offset="0.418" style="stop-color:#9C9C9C"/>
+			<stop  offset="0.6008" style="stop-color:#C7C7C7"/>
+			<stop  offset="0.7644" style="stop-color:#E5E5E5"/>
+			<stop  offset="0.903" style="stop-color:#F8F8F8"/>
+			<stop  offset="1" style="stop-color:#FFFFFF"/>
+		</radialGradient>
+		<path opacity="0.8" fill="url(#SVGID_1_)" enable-background="new    " d="M486.6,470.6c224.5,0,415.4,17.5,415.4,60.5H89.1
+			C89.1,488,262.1,470.6,486.6,470.6z"/>
+		
+			<radialGradient id="SVGID_2_" cx="352.3644" cy="-10396.7471" r="307.502" gradientTransform="matrix(-1.349 0 0 0.1741 964.6855 2482.7859)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#1F1F1F"/>
+			<stop  offset="1.044071e-02" style="stop-color:#222222"/>
+			<stop  offset="0.2194" style="stop-color:#646464"/>
+			<stop  offset="0.418" style="stop-color:#9C9C9C"/>
+			<stop  offset="0.6008" style="stop-color:#C7C7C7"/>
+			<stop  offset="0.7644" style="stop-color:#E5E5E5"/>
+			<stop  offset="0.903" style="stop-color:#F8F8F8"/>
+			<stop  offset="1" style="stop-color:#FFFFFF"/>
+		</radialGradient>
+		<path opacity="0.8" fill="url(#SVGID_2_)" enable-background="new    " d="M480,732.9c233.7,0,432.4-17.4,432.4-60.4H66.3
+			C66.3,715.3,246.3,732.9,480,732.9z"/>
+		
+			<radialGradient id="SVGID_3_" cx="353.5413" cy="-4074.6021" r="211.0896" gradientTransform="matrix(-1.2958 0 0 -0.1741 953.665 -178.5044)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#1F1F1F"/>
+			<stop  offset="1.044071e-02" style="stop-color:#222222"/>
+			<stop  offset="0.2194" style="stop-color:#646464"/>
+			<stop  offset="0.418" style="stop-color:#9C9C9C"/>
+			<stop  offset="0.6008" style="stop-color:#C7C7C7"/>
+			<stop  offset="0.7644" style="stop-color:#E5E5E5"/>
+			<stop  offset="0.903" style="stop-color:#F8F8F8"/>
+			<stop  offset="1" style="stop-color:#FFFFFF"/>
+		</radialGradient>
+		<path opacity="0.3" fill="url(#SVGID_3_)" enable-background="new    " d="M489.4,489.5c154.1,0,285.2,11.9,285.2,41.5h-558
+			C216.5,501.5,335.2,489.5,489.4,489.5z"/>
+		
+			<radialGradient id="SVGID_4_" cx="352.3246" cy="-10396.7432" r="211.1119" gradientTransform="matrix(-1.349 0 0 0.1741 964.6855 2482.7859)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#1F1F1F"/>
+			<stop  offset="1.044071e-02" style="stop-color:#222222"/>
+			<stop  offset="0.2194" style="stop-color:#646464"/>
+			<stop  offset="0.418" style="stop-color:#9C9C9C"/>
+			<stop  offset="0.6008" style="stop-color:#C7C7C7"/>
+			<stop  offset="0.7644" style="stop-color:#E5E5E5"/>
+			<stop  offset="0.903" style="stop-color:#F8F8F8"/>
+			<stop  offset="1" style="stop-color:#FFFFFF"/>
+		</radialGradient>
+		<path opacity="0.3" fill="url(#SVGID_4_)" enable-background="new    " d="M483,713.9c160.5,0,296.8-11.9,296.8-41.4H199
+			C199,701.9,322.5,713.9,483,713.9z"/>
+	</g>
+	
+		<text transform="matrix(1 0 0 1 81.6411 634.2681)" fill="#414042" font-family="'HelveticaNeue-CondensedBlack'" font-size="80.7175">MONTHLY ACTIVE USERS</text>
+</g>
+<g>
+	<g>
+		<g>
+			<circle fill="#333433" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" cx="430.9" cy="1286.4" r="47.6"/>
+			<circle fill="#333433" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" cx="430.9" cy="1286.4" r="40.9"/>
+		</g>
+		<g>
+			<g>
+				<path fill="#FFFFFF" d="M460.2,1271.4c-2,1-4.1,1.6-6.4,1.9c2.3-1.5,4.1-3.8,4.9-6.7c-2.2,1.4-4.6,2.4-7.1,3
+					c-2-2.4-5-3.8-8.1-3.8c-6.2,0-11.2,5.4-11.2,12c0,0.9,0.1,1.9,0.3,2.7c-9.3-0.5-17.5-5.3-23-12.5c-0.9,1.8-1.5,3.8-1.5,6.1
+					c0,4.1,1.9,7.9,5,10c-1.9-0.1-3.6-0.6-5.1-1.5c0,0.1,0,0.1,0,0.2c0,5.8,3.9,10.7,9,11.8c-0.9,0.3-1.9,0.4-3,0.4
+					c-0.7,0-1.4-0.1-2.1-0.3c1.4,4.8,5.6,8.3,10.4,8.4c-3.8,3.2-8.6,5.2-13.9,5.2c-0.9,0-1.8-0.1-2.7-0.2c4.9,3.5,10.8,5.4,17.2,5.4
+					c20.6,0,31.8-18.4,31.8-34.3c0-0.5,0-1,0-1.5C456.8,1276,458.7,1273.9,460.2,1271.4z"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<circle fill="#333433" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" cx="203.6" cy="1286.8" r="47.6"/>
+			<circle fill="#333433" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" cx="203.6" cy="1286.8" r="40.9"/>
+		</g>
+		<path fill="#FFFFFF" d="M217.9,1278.7h-9.6v-6.3c0-2.4,1.6-3,2.7-3c1.1,0,6.9,0,6.9,0v-10.5h-9.4c-10.4,0-12.8,7.8-12.8,12.8v6.9
+			h-6v10.7h6c0,13.8,0,30.5,0,30.5h12.7c0,0,0-16.8,0-30.5h8.5L217.9,1278.7z"/>
+	</g>
+	<g>
+		<g>
+			<circle fill="#333433" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" cx="541.5" cy="1286.3" r="47.6"/>
+			<circle fill="#333433" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" cx="541.5" cy="1286.3" r="40.9"/>
+		</g>
+		<path fill="#FFFFFF" d="M554.5,1264.3h-27.1c-4.7,0-8.5,3.8-8.5,8.5v9v18c0,4.7,3.8,8.5,8.5,8.5h27.1c4.7,0,8.5-3.8,8.5-8.5v-18
+			v-9C563,1268.1,559.1,1264.3,554.5,1264.3z M556.9,1269.4h1v0.9v6.5h-7.4v-7.4H556.9z M534.7,1281.9c1.4-1.9,3.7-3.2,6.3-3.2
+			s4.9,1.3,6.3,3.2c0.9,1.3,1.4,2.9,1.4,4.5c0,4.3-3.5,7.8-7.8,7.8s-7.8-3.5-7.8-7.8C533.1,1284.6,533.7,1283.1,534.7,1281.9z
+			 M558.7,1299.9c0,2.4-1.9,4.2-4.2,4.2h-27.1c-2.4,0-4.2-1.9-4.2-4.2v-18h6.6c-0.6,1.4-0.9,3-0.9,4.5c0,6.7,5.4,12,12,12
+			c6.7,0,12-5.4,12-12c0-1.6-0.3-3.1-0.9-4.5h6.6v18H558.7z"/>
+	</g>
+	<g>
+		<g>
+			<circle fill="#333433" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" cx="651.7" cy="1286.2" r="47.4"/>
+			<circle fill="#333433" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" cx="651.7" cy="1286.2" r="40.7"/>
+		</g>
+		<path fill="#FFFFFF" d="M651.7,1258c-15.6,0-28.3,12.6-28.3,28.3c0,11.6,6.9,21.5,16.9,25.9c-0.1-1.9,0-4.3,0.5-6.5
+			c0.5-2.3,3.6-15.4,3.6-15.4s-0.9-1.8-0.9-4.5c0-4.1,2.5-7.3,5.4-7.3c2.5,0,3.8,1.9,3.8,4.2c0,2.6-1.6,6.4-2.5,10
+			c-0.7,3,1.5,5.4,4.5,5.4c5.3,0,9-6.9,9-15c0-6.2-4.1-10.8-11.8-10.8c-8.5,0-13.9,6.3-13.9,13.5c0,2.5,0.8,4.2,1.9,5.5
+			c0.5,0.6,0.6,0.8,0.4,1.6c-0.2,0.5-0.4,1.8-0.6,2.3c-0.2,0.7-0.8,0.9-1.4,0.7c-4-1.6-5.8-5.9-5.8-10.7c0-8,6.8-17.6,20.1-17.6
+			c10.7,0,17.9,7.8,17.9,16.2c0,11.1-6.2,19.4-15.2,19.4c-3,0-5.9-1.6-6.9-3.6c0,0-1.6,6.5-1.9,7.8c-0.6,2.2-1.8,4.3-2.9,6
+			c2.5,0.8,5.2,1.2,8,1.2c15.6,0,28.3-12.6,28.3-28.3C680,1270.6,667.3,1258,651.7,1258z"/>
+	</g>
+	<g>
+		<g>
+			<circle fill="#333433" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" cx="765.5" cy="1286.1" r="47.6"/>
+			<circle fill="#333433" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" cx="765.5" cy="1286.1" r="40.9"/>
+		</g>
+		<g>
+			<g>
+				<path fill="#FFFFFF" d="M765.9,1309.4c-14,0-25.6-7.7-25.6-17.1s11.4-17.1,25.6-17.1c14,0,25.6,7.7,25.6,17.1
+					S780,1309.4,765.9,1309.4z M765.9,1277.2c-12.9,0-23.4,6.8-23.4,15.1s10.5,15.1,23.4,15.1s23.4-6.8,23.4-15.1
+					C789.4,1284,778.8,1277.2,765.9,1277.2z"/>
+			</g>
+			<g>
+				<path fill="#FFFFFF" d="M785.8,1272.1c-3,0-5.3-2.4-5.3-5.3c0-3,2.4-5.3,5.3-5.3s5.3,2.4,5.3,5.3
+					C791.1,1269.7,788.6,1272.1,785.8,1272.1z M785.8,1263.5c-1.8,0-3.3,1.4-3.3,3.3c0,1.8,1.4,3.3,3.3,3.3c1.8,0,3.3-1.4,3.3-3.3
+					C789,1265,787.5,1263.5,785.8,1263.5z"/>
+			</g>
+			<g>
+				<path fill="#FFFFFF" d="M740.9,1290.5c-2.1-1.2-3.4-3.4-3.4-5.8c0-3.6,3-6.5,6.5-6.5c1.8,0,3.4,0.7,4.7,1.9l-1.4,1.4
+					c-0.8-0.8-1.9-1.4-3.2-1.4c-2.5,0-4.5,2-4.5,4.5c0,1.6,0.8,3.1,2.3,3.9L740.9,1290.5z"/>
+			</g>
+			<g>
+				<path fill="#FFFFFF" d="M791,1290.5l-1-1.8c1.4-0.8,2.3-2.3,2.3-3.9c0-2.5-2-4.5-4.5-4.5c-1.2,0-2.3,0.5-3.2,1.4l-1.4-1.4
+					c1.3-1.3,2.9-1.9,4.7-1.9c3.6,0,6.5,3,6.5,6.5C794.4,1287.2,793,1289.4,791,1290.5z"/>
+			</g>
+			<g>
+				<circle fill="#FFFFFF" cx="757.8" cy="1289.2" r="4.1"/>
+			</g>
+			<g>
+				<circle fill="#FFFFFF" cx="774.6" cy="1289.2" r="4.1"/>
+			</g>
+			<g>
+				<path fill="#FFFFFF" d="M766,1276.8c-0.1,0-0.3,0-0.3-0.1c-0.5-0.2-0.8-0.8-0.6-1.3l4.7-13.2l11.4,2.7c0.6,0.2,0.9,0.7,0.8,1.3
+					c-0.2,0.6-0.7,0.9-1.3,0.8l-9.6-2.3l-4.1,11.4C766.9,1276.5,766.5,1276.8,766,1276.8z"/>
+			</g>
+			<g>
+				<path fill="#FFFFFF" d="M765.9,1303.2c-6.5,0-9.1-3-9.3-3.1c-0.3-0.4-0.3-1.1,0.1-1.4c0.4-0.3,1.1-0.3,1.4,0.1
+					c0.1,0.1,2.3,2.4,7.7,2.4c5.6,0,8-2.4,8-2.5c0.4-0.4,1-0.4,1.4,0c0.4,0.4,0.4,1,0,1.4C775.3,1300.3,772.4,1303.2,765.9,1303.2z"
+					/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<circle fill="#333433" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" cx="317.1" cy="1286.6" r="47.6"/>
+			<circle fill="#333433" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" cx="317.1" cy="1286.6" r="40.9"/>
+		</g>
+		<g>
+			<path fill="#FFFFFF" d="M320.6,1292.5c-1.4-1-4.1-3.5-4.1-4.9c0-1.7,0.5-2.5,3-4.6c2.6-2,4.5-4.9,4.5-8.3c0-4-1.8-7.9-5.1-9.1h5
+				l3.6-2.5h-15.8c-7.1,0-13.8,5.4-13.8,11.6c0,6.3,4.8,11.5,12.1,11.5c0.5,0,1,0,1.4-0.1c-0.5,0.9-0.8,1.9-0.8,3
+				c0,1.8,0.9,3.2,2.2,4.4c-0.9,0-1.8,0-2.7,0c-8.8,0-15.6,5.6-15.6,11.4c0,5.8,7.4,9.3,16.2,9.3c10.1,0,15.6-5.7,15.6-11.4
+				C326.2,1298.2,324.8,1295.5,320.6,1292.5z M312.1,1284.6c-4.1-0.1-8-4.6-8.7-9.9c-0.7-5.3,2-9.5,6.1-9.4c4.1,0.1,8,4.4,8.7,9.8
+				C319,1280.4,316.3,1284.6,312.1,1284.6z M310.5,1311.6c-6.1,0-10.5-3.9-10.5-8.5s5.4-8.3,11.5-8.2c1.4,0,2.7,0.3,4,0.6
+				c3.3,2.3,5.7,3.6,6.3,6.2c0.1,0.5,0.2,1.1,0.2,1.6C322.1,1308.1,319.2,1311.6,310.5,1311.6z"/>
+			<polygon fill="#FFFFFF" points="337.5,1285 337.5,1278.8 332.5,1278.8 332.5,1285 326.4,1285 326.4,1290 332.5,1290 
+				332.5,1296.2 337.5,1296.2 337.5,1290 343.7,1290 343.7,1285 			"/>
+		</g>
+	</g>
+	
+		<text transform="matrix(1 0 0 1 156.338 782.7377)" font-family="'HelveticaNeue-CondensedBlack'" font-size="54.4815" letter-spacing="-3">1.15</text>
+	
+		<text transform="matrix(1 0 0 1 239.1115 782.7377)" font-family="'HelveticaNeue-CondensedBlack'" font-size="43.4692" letter-spacing="-2"> </text>
+	<text transform="matrix(1 0 0 1 165.8566 806.806)" font-family="'HelveticaNeue-CondensedBlack'" font-size="23.6979">BILLION</text>
+	<path fill="#C21429" d="M160.8,819.7c-0.2,0.8-0.3,2.2-0.3,3.4l0.2,435.8c1.9-15.9,20.4-28.4,43.1-28.4s41.3,12.5,43.1,28.4
+		l0.2-435.8c0-1.1-0.1-2.5-0.3-3.4H160.8z"/>
+	<path fill="#C21429" d="M274.2,927.1c-0.2,0.8-0.3,2.2-0.3,3.4l0.2,328.3c1.9-15.9,20.4-28.4,43.1-28.4s41.3,12.5,43.1,28.4
+		l0.2-328.3c0-1.1-0.1-2.5-0.3-3.4H274.2z"/>
+	<rect x="160.6" y="720.6" fill="#C21429" width="86.6" height="12.4"/>
+	<text transform="matrix(1 0 0 1 277.0578 887.4892)" font-family="'HelveticaNeue-CondensedBlack'" font-size="54.4815">359</text>
+	<text transform="matrix(1 0 0 1 277.3039 917.4824)" font-family="'HelveticaNeue-CondensedBlack'" font-size="23.6979">MILLION</text>
+	<rect x="276.2" y="825.4" fill="#C21429" width="86.6" height="12.4"/>
+	<path fill="#C21429" d="M388.5,1035.5c-0.2,0.8-0.3,2.2-0.3,3.4l0.2,220c1.9-15.9,20.4-28.4,43.1-28.4s41.3,12.5,43.1,28.4l0.2-220
+		c0-1.1-0.1-2.5-0.3-3.4H388.5z"/>
+	<text transform="matrix(1 0 0 1 391.3156 995.2582)" font-family="'HelveticaNeue-CondensedBlack'" font-size="54.4815">215</text>
+	<text transform="matrix(1 0 0 1 390.8888 1025.2504)" font-family="'HelveticaNeue-CondensedBlack'" font-size="23.6979">MILLION </text>
+	<rect x="390.4" y="933.2" fill="#C21429" width="86.6" height="12.4"/>
+	<path fill="#C21429" d="M497.7,1076.9c-0.2,0.8-0.3,2.2-0.3,3.4l0.2,178.5c1.9-15.9,20.4-28.4,43.1-28.4s41.3,12.5,43.1,28.4
+		l0.2-178.5c0-1.1-0.1-2.5-0.3-3.4H497.7z"/>
+	<text transform="matrix(1 0 0 1 497.9562 1035.0345)" font-family="'HelveticaNeue-CondensedBlack'" font-size="54.4815">150</text>
+	<text transform="matrix(1 0 0 1 500.0685 1065.8734)" font-family="'HelveticaNeue-CondensedBlack'" font-size="23.6979">MILLION </text>
+	<rect x="499.6" y="973.8" fill="#C21429" width="86.6" height="12.4"/>
+	<path fill="#C21429" d="M608.5,1126c-0.2,0.8-0.3,2.2-0.3,3.4l0.2,129.4c1.9-15.9,20.4-28.4,43.1-28.4s41.3,12.5,43.1,28.4
+		l0.2-129.4c0-1.1-0.1-2.5-0.3-3.4H608.5z"/>
+	<text transform="matrix(1 0 0 1 622.7199 1081.9183)" font-family="'HelveticaNeue-CondensedBlack'" font-size="54.4815">20</text>
+	<text transform="matrix(1 0 0 1 610.9406 1113.6039)" font-family="'HelveticaNeue-CondensedBlack'" font-size="23.6979">MILLION </text>
+	<rect x="610.5" y="1021.5" fill="#C21429" width="86.6" height="12.4"/>
+	<path fill="#C21429" d="M721.1,1190.4c-0.2,0.8-0.3,2.2-0.3,3.4l0.2,65.1c1.9-15.9,20.4-28.4,43.1-28.4s41.3,12.5,43.1,28.4
+		l0.2-65.1c0-1.1-0.1-2.5-0.3-3.4H721.1z"/>
+	<text transform="matrix(1 0 0 1 749.1779 1150.6771)" font-family="'HelveticaNeue-CondensedBlack'" font-size="54.4815">2</text>
+	<text transform="matrix(1 0 0 1 723.5051 1179.8226)" font-family="'HelveticaNeue-CondensedBlack'" font-size="23.6979">MILLION </text>
+	<rect x="723.1" y="1087.8" fill="#C21429" width="86.6" height="12.4"/>
+</g>
+</svg>
